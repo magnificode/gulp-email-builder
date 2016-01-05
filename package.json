@@ -1,0 +1,23 @@
+{
+  "name": "email-build",
+  "version": "2.0.3",
+  "description": "Gulp email builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-email-builder": "^1.0.4"
+  },
+  "dependencies": {
+    "install": "~0.1.8",
+    "npm": "~2.3.0"
+  }
+}
